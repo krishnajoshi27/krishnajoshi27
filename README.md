@@ -3,11 +3,6 @@
 <!--
 **krishnajoshi27/krishnajoshi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there 👋
-
-<!--
-**krishnajoshi27/krishnajoshi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 🏄‍♂️ Krishna Joshi
 
 **`Software Developer (Developer/Designer/Creator)`**
